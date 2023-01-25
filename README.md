@@ -1,4 +1,4 @@
-![Wahyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=whytrchy&theme=tokyonight&show_icons=true)
+![Wahyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=whytrchy&theme=swift&show_icons=true)
 
 <!---
 wahwihwuh/wahwihwuh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
