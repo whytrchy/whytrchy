@@ -25,11 +25,16 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: whytrchy
           template: classic
           base: header, activity, community, repositories, metadata
           config_display: columns
           config_timezone: Asia/Jakarta
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          plugin_activity_load: 300
+          plugin_activity_visibility: all
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_sections: repositories
@@ -49,4 +54,4 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: icons
-          plugin_topics_sort: random
+          plugin_topics_sort: stars
