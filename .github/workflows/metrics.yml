@@ -28,7 +28,6 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_padding: 0,8 + 11%
-          config_display: columns
           config_timezone: Asia/Jakarta
           plugin_activity: yes
           plugin_activity_days: 14
