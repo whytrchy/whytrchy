@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3E2E37&width=435&lines=Welcome+to+my+github+profile!;3%2B+years+experience;Focusing+on+NodeJS+%26+ReactJS)](https://git.io/typing-svg)
 
-# <p><img src="/github-metrics.svg" alt="Metrics"></p>
+
 ![Metrics](https://metrics.lecoq.io/whytrchy?template=classic&languages=1&topics=1&activity=1&stars=1&pagespeed=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&topics=false&topics.mode=starred&topics.sort=stars&topics.limit=15&stars=false&stars.limit=2&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&pagespeed=false&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&pagespeed.pwa=false&config.timezone=Asia%2FJakarta&config.display=columns)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whytrchy)](https://github.com/anuraghazra/github-readme-stats)
